@@ -68,7 +68,7 @@ Each folder includes:
 
 ---
 
-**Created by [Larry S. Barreto](https://github.com/larrysbarretot)**  
+**Created by [Larry S. Barreto T.](https://github.com/larrysbarretot)**  
 💡 _Always learning. Always building._
 
 ---
